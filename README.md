@@ -1,1 +1,2 @@
-This server list might be outdated.
+# Call of Duty - Server locations and Info
+This list might be outdated.
