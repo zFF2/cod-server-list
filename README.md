@@ -1,1 +1,1 @@
-This server list is outdated since COD switched to Microsoft servers after Black Ops 7 launched.
+This server list might be outdated.
